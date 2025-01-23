@@ -1,7 +1,7 @@
+![logo](https://github.com/7217Krishna/7217krishna/blob/main/Linkedln%20Banner%20(Dec%202024).png)
 <h1 align="center">Hi 👋, I'm Shankh Bansal</h1>
 <h3 align="center">A dedicated professional in International Business from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media">
 
 - 🔭 I’m currently working on [Digibansal Website Development](https://digibansal.com)
 
