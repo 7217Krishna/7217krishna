@@ -1,6 +1,6 @@
 ![logo](https://github.com/7217Krishna/7217krishna/blob/main/Linkedln%20Banner%20(Dec%202024).png)
 <h1 align="center">Hi 👋, I'm Shankh Bansal</h1>
-<h3 align="center">A skilled expert in Digital marketing from India.</h3>
+<h3 align="center">A skilled professional in Digital marketing from India.</h3>
 
 
 - 🔭 I’m currently working as a Founder & Director at [Digibansal](https://digibansal.com)
