@@ -3,9 +3,9 @@
 <h3 align="center">A dedicated professional in International Business from India</h3>
 
 
-- 🔭 I’m currently working on [Digibansal Website Development](https://digibansal.com)
+- 🔭 I’m currently working as a Founder & Director at [Digibansal](https://digibansal.com)
 
-- 🌱 I’m currently learning **Import/Export Bussines**
+- 🌱 I’m currently learning ** Amazon Web Services **
 
 - 👨‍💻 All of my projects are available at [https://digibansal.com/portfolio/](https://digibansal.com/portfolio/)
 
