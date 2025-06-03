@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://digibansal.com/blogs/](https://digibansal.com/blogs/)
 
-- 💬 Ask me about **International Bussiness, Digital Marketing**
+- 💬 Ask me about *Digital Marketing, Web Development, Client Relations*
 
 - 📫 How to reach me **shankh@digibansal.com**
 
