@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Founder & Director at [Digibansal](https://digibansal.com)
 
-- 🌱 I’m currently learning ** Amazon Web Services **
+- 🌱 I’m currently learning * Amazon Web Services *
 
 - 👨‍💻 All of my projects are available at [https://digibansal.com/portfolio/](https://digibansal.com/portfolio/)
 
