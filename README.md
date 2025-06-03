@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **International Bussiness, Digital Marketing**
 
-- 📫 How to reach me **shankhbansal69@gmail.com**
+- 📫 How to reach me **shankh@digibansal.com**
 
 - ⚡ Fun fact **Never Procrastinate 😆**
 
